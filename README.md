@@ -1,1 +1,1 @@
-# csharp_homeworks
+# Repo for some C# homeworks
